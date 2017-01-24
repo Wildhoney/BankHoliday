@@ -1,6 +1,6 @@
 [package]
 
-name = "bank-holidays"
+name = "bank-holiday"
 version = "0.1.0"
 authors = ["Adam Timberlake <adam.timberlake@gmail.com>"]
 

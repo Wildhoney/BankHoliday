@@ -1,0 +1,16 @@
+[package]
+
+name = "bank-holidays"
+version = "0.1.0"
+authors = ["Adam Timberlake <adam.timberlake@gmail.com>"]
+
+# [dependencies.ical]
+# version = "0.2.x"
+# default-features = false
+# features = ["ical-parser"]
+
+[dependencies]
+ical = "0.2.0"
+
+[dependencies.curl]
+git = "https://github.com/carllerche/curl-rust"
